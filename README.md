@@ -15,5 +15,10 @@
 
 <img width="960" alt="image" src="https://github.com/julianadelimaes/DIO-Azure/assets/111389939/d246b09a-8320-401d-b3ad-6548564c3c1a">
 
+Disponível em:
+https://app.powerbi.com/groups/me/reports/4d0a6e02-b54f-4240-8e39-8ab161d4d256/ReportSection?experience=power-bi
+
+<img width="925" alt="image" src="https://github.com/julianadelimaes/DIO-Azure/assets/111389939/98d0f494-98a9-4070-9915-6a84d9db41af">
+
 
 
