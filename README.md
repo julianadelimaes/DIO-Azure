@@ -13,4 +13,6 @@
 
 <img width="960" alt="image" src="https://github.com/julianadelimaes/DIO-Azure/assets/111389939/b5bfc217-e032-4868-a73a-0c26efa09559">
 
+<img width="960" alt="image" src="https://github.com/julianadelimaes/DIO-Azure/assets/111389939/f0e73ebb-110f-4889-bdac-334f33f55173">
+
 
