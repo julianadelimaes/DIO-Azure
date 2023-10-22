@@ -9,4 +9,5 @@
 
 <img width="960" alt="image" src="https://github.com/julianadelimaes/DIO-Azure/assets/111389939/97e7d3d8-5d06-403a-bed5-2470fee78f4b">
 
- 
+ ![image](https://github.com/julianadelimaes/DIO-Azure/assets/111389939/d7d887a2-6bda-47b5-92d1-7df9a324ff7e)
+
