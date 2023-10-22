@@ -11,3 +11,5 @@
 
  ![image](https://github.com/julianadelimaes/DIO-Azure/assets/111389939/d7d887a2-6bda-47b5-92d1-7df9a324ff7e)
 
+<img width="960" alt="image" src="https://github.com/julianadelimaes/DIO-Azure/assets/111389939/7527c296-aa51-4016-aeb2-b177e86a1788">
+
